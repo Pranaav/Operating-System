@@ -1,4 +1,4 @@
-3 first-fit
+Applied first-fit algorithm
 
 firstly i made a struct box which is the node of my free-list. it will have next element and previous and size of
 that node and also the magic number which will help us to seeif valid pointer or not for our my_free function. 
